@@ -3,13 +3,13 @@
 
 ## 목차
 
-- [] 1. 요구사항 확인
+- [x] [1. 요구사항 확인](https://github.com/JIWON1923/Engineer-Information-Processing/tree/main/01.%20요구사항%20확인)
     - 1) 소프트웨어 개발방법론
     - 2) 현행 시스템 분석
     - 3) 요구사항 확인
     - 4) 분석 모델 확인하기
     
-- [] 2. 화면 설계
+- [x] [2. 화면 설계](https://github.com/JIWON1923/Engineer-Information-Processing/tree/main/02.%20화면설계)
     - 1) UI 요구사항 확인
     - 2) UI 설계
 
