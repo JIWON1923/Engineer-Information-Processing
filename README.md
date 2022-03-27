@@ -44,21 +44,21 @@
     - 3) 서버 프로그램 구현
     - 4) 배치 프로그램 구현
     
-- [x] 9. 소프트웨어 개발 보안 구축
+- [x] [9. 소프트웨어 개발 보안 구축](https://github.com/JIWON1923/Engineer-Information-Processing/tree/main/09.%20소프트웨어%20개발%20보안%20구축)
     - 1) 소프트웨어 개발 보안 설계
     - 2) 소프트웨어 개발 보안 구현
     
-- [x] 10. 애플리케이션 테스트 관리
+- [x] [10. 애플리케이션 테스트 관리](https://github.com/JIWON1923/Engineer-Information-Processing/tree/main/10.%20애플리케이션%20테스트%20관리)
     - 1) 애플리케이션 테스트 케이스 설계
     - 2) 애플리케이션 통합 테스트
     - 3) 애플리케이션 성능 개선
     
-- [x] 11. 응용 SW 기초 기술 활용
+- [x] [11. 응용 SW 기초 기술 활용](https://github.com/JIWON1923/Engineer-Information-Processing/tree/main/11.%20응용%20SW%20기초%20기술%20활용)
     - 1) 운영체제의 특징
     - 2) 네트워크 기초 활용하기
     - 3) 기본 개발환경 구축하기
     
-- [ ] 12. 제품 소프트웨어 패키징
+- [x] [12. 제품 소프트웨어 패키징]((https://github.com/JIWON1923/Engineer-Information-Processing/tree/main/12.%20제품%20소프트웨어%20패키징)
     - 1) 제품 소프트웨어 패키징하기
     - 2) 제품 소프트웨어 매뉴얼 작성 및 버전 등록
     
