@@ -58,7 +58,7 @@
     - 2) 네트워크 기초 활용하기
     - 3) 기본 개발환경 구축하기
     
-- [x] [12. 제품 소프트웨어 패키징]((https://github.com/JIWON1923/Engineer-Information-Processing/tree/main/12.%20제품%20소프트웨어%20패키징)
+- [x] [12. 제품 소프트웨어 패키징](https://github.com/JIWON1923/Engineer-Information-Processing/tree/main/12.%20제품%20소프트웨어%20패키징)
     - 1) 제품 소프트웨어 패키징하기
     - 2) 제품 소프트웨어 매뉴얼 작성 및 버전 등록
     
